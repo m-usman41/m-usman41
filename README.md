@@ -3,13 +3,6 @@
 # Muhammad Usman
 I'm [Muhammad Usman](https://github.com/usman-web/), a passionate self-taught Frontend Developer :rocket:. Reach me out on [@m_usman41](https://twitter.com/@m_usman41)
 
-## Github Summary
-
-<span>
-  <p><img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-usman41&show_icons=true&locale=en&layout=compact" alt="Muhammad Usman" /></p>
-<p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-usman41&" alt="m-usman41" /></p>
-</span>
-
 ## Languages and Tools:
 
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
